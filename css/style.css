@@ -1,1 +1,13 @@
+.bg{
+    background-color: #FFEAE9;
+}
 
+.bg-subscribe{
+    background-color: #FFF2F1;
+    height: 40vh;
+}
+input{
+    width: 100%;
+    padding: 1%;
+    margin-bottom: 1.5%;
+}
