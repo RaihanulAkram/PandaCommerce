@@ -6,8 +6,19 @@
     background-color: #FFF2F1;
     height: 40vh;
 }
+.pink{
+    color: #f32e7f;
+}
 input{
     width: 100%;
     padding: 1%;
     margin-bottom: 1.5%;
+}
+button{
+    background-color: #f32e7f;
+    color: #fff;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
 }
